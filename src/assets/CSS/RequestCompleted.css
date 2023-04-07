@@ -1,0 +1,12 @@
+.title {
+    display: block;
+    clear: both;
+  }    
+  .title .date {
+    float: right;
+  }      
+  .title .name {
+    float: left;
+  }
+
+/* 18 */

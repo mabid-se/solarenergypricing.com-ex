@@ -1,0 +1,41 @@
+.mainContainer {
+max-width: 100%;
+margin: 0 auto;
+}
+
+.rowContainer {
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.cardContianer {
+flex: 1 1 21rem;
+display: flex;
+flex-wrap: wrap;
+align-self: normal;
+/* align-items:center; */
+/* height: 220px; */
+
+/* vertical-align: middle; */
+
+
+}
+
+/* 
+@media (max-width: 500px) {
+    .zipInput {
+        width: 190px;
+        height: 60px;
+    }
+
+    .zipSubmit {
+        width: 190px;
+        height: 60px;
+    }
+}
+
+@media (min-width: 975px) {
+    .cardContianer
+    {}
+} */
