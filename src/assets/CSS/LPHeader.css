@@ -1,0 +1,10 @@
+.boxContainer {
+    background: linear-gradient(to bottom, rgba(16, 59, 202, 0.76) 80%, rgba(113, 201, 228, 0.815) 100% ), url("../images/image15.png") no-repeat;
+}
+
+.continerGrid {
+    align-self: center;
+    text-align: center;
+    color: white;
+}
+/* 87 */
